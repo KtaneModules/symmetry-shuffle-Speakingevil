@@ -1,0 +1,16 @@
+{
+  "Author": "Speakingevil",
+  "Compatibility": "Compatible",
+  "DefuserDifficulty": "Hard",
+  "Description": "Swap and flip three boxes of tubes to permute the chemicals into the correct order.",
+  "ExpertDifficulty": "Hard",
+  "ModuleID": "symmetryShuffle",
+  "Name": "Symmetry Shuffle",
+  "Origin": "Mods",
+  "Published": "2024-02-06",
+  "SortKey": "SYMMETRYSHUFFLE",
+  "SourceUrl": "https://github.com/Speakingevil/symmetry-shuffle",
+  "SteamID": "3155537152",
+  "Symbol": "Sysh",
+  "Type": "Regular"
+}
